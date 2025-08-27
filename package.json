@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Sbonelo",
   "license": "ISC",
-  "description": "vanilla-ts-project/"
+  "description": "vanilla-ts-project/",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
 }
